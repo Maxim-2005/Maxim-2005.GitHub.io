@@ -21,7 +21,7 @@ window.addEventListener("scroll", updateScrollPosition);
 
 // Загрузка файла
 function downloadFile() {
-    const file = "file/Messager.exe";
+    const file = "file/MaxHUB.exe";
     // Создание ссылки на скачивание файла
     const link = document.createElement("a");
     link.href = file;
